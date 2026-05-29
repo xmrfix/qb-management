@@ -39,9 +39,6 @@ The script utilizes the following tables (all included in `qb-management.sql`):
 - `management_funds`
 - `management_transactions`
 
-## 🎨 Interface Preview
-
-*(Add your screenshots of the UI here to showcase the Dark/Light modes and Charts)*
 
 ## 📜 License
 
